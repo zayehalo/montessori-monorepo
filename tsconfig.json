@@ -17,6 +17,9 @@
     },
     {
       "path": "./libs/graphql"
+    },
+    {
+      "path": "./libs/prisma"
     }
   ]
 }
