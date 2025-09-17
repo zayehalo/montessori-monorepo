@@ -8,6 +8,12 @@
     },
     {
       "path": "./apps/montessori-monorepo"
+    },
+    {
+      "path": "./apps/gql-api-e2e"
+    },
+    {
+      "path": "./apps/gql-api"
     }
   ]
 }
