@@ -200,7 +200,7 @@ importers:
 
   apps/gql-api-e2e: {}
 
-  apps/montessori-monorepo:
+  apps/react-ui:
     dependencies:
       '@react-router/node':
         specifier: ^7.2.0
@@ -234,7 +234,7 @@ importers:
         specifier: 19.0.0
         version: 19.0.0
 
-  apps/montessori-monorepo-e2e: {}
+  apps/react-ui-e2e: {}
 
   libs/graphql:
     dependencies:

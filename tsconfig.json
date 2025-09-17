@@ -4,12 +4,6 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/montessori-monorepo-e2e"
-    },
-    {
-      "path": "./apps/montessori-monorepo"
-    },
-    {
       "path": "./apps/gql-api-e2e"
     },
     {
@@ -20,6 +14,12 @@
     },
     {
       "path": "./libs/prisma"
+    },
+    {
+      "path": "./apps/react-ui-e2e"
+    },
+    {
+      "path": "./apps/react-ui"
     }
   ]
 }
