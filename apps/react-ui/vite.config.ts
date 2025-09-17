@@ -4,7 +4,7 @@ import { reactRouter } from '@react-router/dev/vite';
 
 export default defineConfig(() => ({
   root: __dirname,
-  cacheDir: '../../node_modules/.vite/apps/montessori-monorepo',
+  cacheDir: '../../node_modules/.vite/apps/react-ui',
   server: {
     port: 4200,
     host: 'localhost',
@@ -27,7 +27,7 @@ export default defineConfig(() => ({
     },
   },
   test: {
-    name: '@montessori-monorepo/montessori-monorepo',
+    name: '@montessori-monorepo/react-ui',
     watch: false,
     globals: true,
     environment: 'jsdom',

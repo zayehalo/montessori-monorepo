@@ -24,7 +24,7 @@ export default defineConfig({
   },
   /* Run your local dev server before starting the tests */
   webServer: {
-    command: 'pnpm exec nx run @montessori-monorepo/montessori-monorepo:dev',
+    command: 'pnpm exec nx run @montessori-monorepo/react-ui:dev',
     url: 'http://localhost:4200',
     reuseExistingServer: true,
     cwd: workspaceRoot,

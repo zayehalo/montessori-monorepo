@@ -1,5 +1,5 @@
 {
-  "name": "@montessori-monorepo/montessori-monorepo",
+  "name": "@montessori-monorepo/react-ui",
   "private": true,
   "type": "module",
   "scripts": {},
@@ -17,5 +17,8 @@
     "@types/node": "^20.0.0",
     "@types/react": "19.0.0",
     "@types/react-dom": "19.0.0"
+  },
+  "nx": {
+    "name": "react-ui"
   }
 }
